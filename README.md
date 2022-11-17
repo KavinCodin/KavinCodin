@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kavinrajan
 - 👀 I’m interested in ... Android Application Development
 - 🌱 I’m currently learning ... MAD Android
-- 💞️ I’m looking to collaborate on ...Machine Learning and Artifical Intelligence
+- 💞️ I’m looking to collaborate on ... IOT, NFC, BLE LE, Infotainment, Machine Learning and Artifical Intelligence.
 - 📫 How to reach me ... [kavinrajan](https://www.linkedin.com/in/kavinrajan/)   (Kindly type message)
 
 <!---
